@@ -8,3 +8,6 @@ This repository hosts the code for a dynamic blog generator application, powered
 - **Customizable Content**: Specify the length and target audience to tailor the blog posts according to different requirements.
 - **User-friendly Interface**: A clean and intuitive interface ensures a seamless user experience.
 - **Instant Content Creation**: Leveraging Llama2 LLM, the tool provides instant blog pos
+
+
+![Screenshot of the application](screenshot.png)
