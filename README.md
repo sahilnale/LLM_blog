@@ -9,5 +9,5 @@ This repository hosts the code for a dynamic blog generator application, powered
 - **User-friendly Interface**: A clean and intuitive interface ensures a seamless user experience.
 - **Instant Content Creation**: Leveraging Llama2 LLM, the tool provides instant blog pos
 
-
+## Example Use Case
 ![Screenshot of the application](screenshot.png)
