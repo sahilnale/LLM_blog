@@ -1,7 +1,5 @@
 # LLM_blog
 
-# Dynamic Blog Generator
-
 ## Project Overview
 This repository hosts the code for a dynamic blog generator application, powered by Llama2 LLM. This versatile tool allows users to create blog posts on any given topic by specifying various parameters such as the topic, target audience, and length. It's designed to cater to a wide range of users, from casual bloggers to professional researchers, providing a quick and efficient way to generate high-quality content tailored to their needs.
 
